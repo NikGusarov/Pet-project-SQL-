@@ -6,7 +6,9 @@
 <a href="https://www.linkedin.com/in/nik-gusarov-02945a264/">
 	<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-### About me
+	
+### 
+	About me
 - 🌱 I’m currently learning **SQL,Python**
-- 📫 Reach me by  [email](Nikolasgam@yandex.ru)
+- 📫 Reach me by  [email]
 - 🌍 I speak English
