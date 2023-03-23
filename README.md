@@ -10,6 +10,7 @@
 	
 ### About me
 - 🌱 I’m currently learning **SQL,Python**
+- Reach me by [LinkedIn](linkedin-link)
 - 🌍 I speak English
 ### Languages and tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" title="sql" width="40" height="40"/>&nbsp;
