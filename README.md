@@ -8,8 +8,7 @@
 	<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 	
-### 
-About me
+### About me
 - 🌱 I’m currently learning **SQL,Python**
 - 📫 Reach me by  [email]
 - 🌍 I speak English
