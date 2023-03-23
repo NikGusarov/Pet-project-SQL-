@@ -9,7 +9,7 @@
 </a>
 	
 ### 
-	About me
+About me
 - 🌱 I’m currently learning **SQL,Python**
 - 📫 Reach me by  [email]
 - 🌍 I speak English
